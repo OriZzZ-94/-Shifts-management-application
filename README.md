@@ -1,4 +1,4 @@
-# -Shifts-management-application
+# Shifts-management-application
 
 
 
